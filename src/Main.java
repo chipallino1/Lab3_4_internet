@@ -8,6 +8,9 @@ import  airCompany.Dispatcher;
 import org.apache.log4j.Logger;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.w3c.dom.Document;
+
+import javax.xml.parsers.DocumentBuilderFactory;
 
 public class Main {
 
@@ -50,6 +53,9 @@ public class Main {
             for (int i = 0; i < planes.length; i++) {
                 System.out.println(planes[i].getLongOfVoyage() + " " + planes[i].getName());
             }
+
+
+            Document documentBuilder= DocumentBuilderFactory.newInstance().newDocumentBuilder().newDocument();
             LOG.debug("Программа завершилась!");
 
         }
