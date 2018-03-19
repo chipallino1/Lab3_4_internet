@@ -26,9 +26,9 @@ public class Main {
             Boing boing = boingFactory.create();
             PilotBoing pilotBoing = boingFactory.addPilot();
 
+
             boing.getDiscription();
             pilotBoing.letFly();
-
             AirCompany.ILFactory ilFactory = new AirCompany().new ILFactory();
             IL il = ilFactory.create();
             PilotIL pilotIL = ilFactory.addPilot();
