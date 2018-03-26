@@ -1258,3 +1258,754 @@
 26.03.2018 17:01:33 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
 26.03.2018 17:01:33 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
 26.03.2018 17:01:33 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:15:15 [main] DEBUG Main  -Программа началась
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:15 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:15:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:15:41 [main] FATAL Main  -Ошибка!
+26.03.2018 17:19:47 [main] DEBUG Main  -Программа началась
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:47 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:19:56 [main] DEBUG Main  -Программа началась
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:56 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:19:58 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:58 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:19:58 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:22:02 [main] DEBUG Main  -Программа началась
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:02 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:22:04 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:04 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:22:04 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:23:39 [main] DEBUG Main  -Программа началась
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:39 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:23:41 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:41 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:23:41 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:25:14 [main] DEBUG Main  -Программа началась
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:14 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:25:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:16 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:25:29 [main] DEBUG Main  -Программа началась
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:29 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:25:36 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:25:36 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:06 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:26:45 [main] DEBUG Main  -Программа началась
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:45 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:26:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:47 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:26:59 [main] DEBUG Main  -Программа началась
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:26:59 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:27:00 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:27:00 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:27:01 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:28:16 [main] DEBUG Main  -Программа началась
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:16 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:28:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:18 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:28:45 [main] DEBUG Main  -Программа началась
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:45 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:28:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:28:47 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:29:12 [main] DEBUG Main  -Программа началась
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:12 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:29:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:14 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:14 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:29:47 [main] DEBUG Main  -Программа началась
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:47 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:29:50 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:50 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:29:50 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:30:00 [main] DEBUG Main  -Программа началась
+26.03.2018 17:30:00 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:01 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:30:03 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:03 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:30:03 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:33:47 [main] DEBUG Main  -Программа началась
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:47 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:33:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:33:49 [main] FATAL Main  -Ошибка!
+26.03.2018 17:53:23 [main] DEBUG Main  -Программа началась
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:23 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:53:24 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:24 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:25 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 17:53:44 [main] DEBUG Main  -Программа началась
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:44 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:53:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:47 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:53:47 [main] FATAL Main  -Ошибка!
+26.03.2018 17:58:05 [main] DEBUG Main  -Программа началась
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:05 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 17:58:07 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:07 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 17:58:07 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 18:13:44 [main] DEBUG Main  -Программа началась
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:44 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 18:13:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:13:47 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 18:14:18 [main] DEBUG Main  -Программа началась
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:18 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 18:14:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 18:14:20 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 19:06:19 [main] DEBUG Main  -Программа началась
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:19 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:06:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:06:22 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 19:10:22 [main] DEBUG Main  -Программа началась
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:22 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:10:24 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:24 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:10:24 [main] FATAL Main  -Ошибка!
+26.03.2018 19:11:31 [main] DEBUG Main  -Программа началась
+26.03.2018 19:11:31 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:11:31 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:32 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:11:35 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:11:35 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:33 [main] FATAL Main  -Ошибка!
+26.03.2018 19:12:37 [main] DEBUG Main  -Программа началась
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:37 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:12:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:39 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:12:39 [main] FATAL Main  -Ошибка!
+26.03.2018 19:14:40 [main] DEBUG Main  -Программа началась
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:40 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:14:42 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:42 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:14:42 [main] FATAL Main  -Ошибка!
+26.03.2018 19:16:49 [main] DEBUG Main  -Программа началась
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:49 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:16:51 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:51 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:16:51 [main] FATAL Main  -Ошибка!
+26.03.2018 19:17:48 [main] DEBUG Main  -Программа началась
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:48 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:17:50 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:50 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:17:51 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 19:18:30 [main] DEBUG Main  -Программа началась
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:30 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:18:33 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:33 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:18:33 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 19:19:15 [main] DEBUG Main  -Программа началась
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:15 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:19:17 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:17 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:19:18 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 19:58:32 [main] DEBUG Main  -Программа началась
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:32 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 19:58:34 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:34 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:35 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:35 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 19:58:35 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 20:00:18 [main] DEBUG Main  -Программа началась
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:18 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 20:00:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:21 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:21 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 20:00:49 [main] DEBUG Main  -Программа началась
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:49 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 20:00:51 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:51 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:52 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:52 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:00:52 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 20:03:20 [main] DEBUG Main  -Программа началась
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:20 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 20:03:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:22 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:23 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:23 [main] FATAL Main  -Ошибка!
+26.03.2018 20:03:59 [main] DEBUG Main  -Программа началась
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:03:59 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 20:04:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:02 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:02 [main] DEBUG Main  -Программа завершилась!
+26.03.2018 20:04:43 [main] DEBUG Main  -Программа началась
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект BoingFactory создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект PilotBoing создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.AirCompany создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект ILFactory создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект PilotIL создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:43 [main] INFO  airCompany.Dispatcher  -Объект Dispatcher создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] INFO  airCompany.AirCompany  -Объект class airCompany.Planes.Plane создан!
+26.03.2018 20:04:46 [main] DEBUG Main  -Программа завершилась!

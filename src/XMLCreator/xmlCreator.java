@@ -95,12 +95,14 @@ public class xmlCreator {
 
 
         }
-        public void outPutHTML() throws TransformerException {
-            source = new DOMSource( document);
-            result = new StreamResult(
-                    new File("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.html"));
-
-            transformer.transform(source,result );
+        public void outPutHTML() throws TransformerException, FileNotFoundException {
+            TransformerFactory tFactory = TransformerFactory.newInstance();
+            String stylesheet = "files\\Planes Styles.xsl";
+            String sourceId = "files\\Planes.xml";
+            File planesHTML = new File("D:files\\PlanesGen.html");
+            FileOutputStream os = new FileOutputStream(planesHTML);
+            Transformer transformer = tFactory.newTransformer(new StreamSource(stylesheet));
+            transformer.transform(new StreamSource(sourceId), new StreamResult(os));
         }
 
             public static boolean validateXMLByXSD(String xml, String xsd) throws SAXException, IOException {
