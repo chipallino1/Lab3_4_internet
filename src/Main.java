@@ -10,7 +10,15 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.w3c.dom.Document;
 
+import XMLCreator.xmlCreator;
+import org.w3c.dom.Element;
+
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+import java.io.File;
 
 public class Main {
 
@@ -54,15 +62,28 @@ public class Main {
                 System.out.println(planes[i].getLongOfVoyage() + " " + planes[i].getName());
             }
 
+            xmlCreator xmlCreation=new xmlCreator(planes);
+            //xmlCreation.outPutConsole();
+            xmlCreation.outPutXML();
+            //xmlCreation.outPutHTML();
 
-            Document documentBuilder= DocumentBuilderFactory.newInstance().newDocumentBuilder().newDocument();
-            LOG.debug("Программа завершилась!");
+            /*String xml="<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n" +
+                    "<Planes>\n" +
+                    "    <Plane>Plane1</Plane>\n" +
+                    "</Planes>";*/
+           boolean valid= xmlCreation.validateXMLByXSD("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xml", "D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xsd");
+           if(valid)
+               System.out.println("GOOD parsing using XSD!");
+           else
+               System.out.println("ERROR!");
+           LOG.debug("Программа завершилась!");
 
         }
         catch (Exception ex)
         {
+
             LOG.fatal("Ошибка!");
-            System.out.println("Ошибка!");
+            System.out.println("Ошибка! "+ex.getMessage());
         }
 
 
