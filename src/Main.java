@@ -8,6 +8,26 @@ import  airCompany.Dispatcher;
 import org.apache.log4j.Logger;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.w3c.dom.Document;
+import Parsers.domParser;
+import Parsers.saxParsers;
+
+import XMLCreator.xmlCreator;
+import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
+import org.xml.sax.XMLReader;
+import org.xml.sax.helpers.XMLReaderFactory;
+
+import javax.print.Doc;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
 
 public class Main {
 
@@ -43,6 +63,7 @@ public class Main {
             planes[3] = new Plane("Plane 4", "me", 1, 1);
             planes[4] = new Plane("Plane 5", "me", 100, 123);
 
+
             Dispatcher dispatcher = Dispatcher.createDispatcher();
             dispatcher.searchFuel(planes);
             dispatcher.sortByLong(planes);
@@ -51,13 +72,54 @@ public class Main {
             for (int i = 0; i < planes.length; i++) {
                 System.out.println(planes[i].getLongOfVoyage() + " " + planes[i].getName());
             }
-            LOG.debug("Программа завершилась!");
+
+            xmlCreator xmlCreation=new xmlCreator(planes);
+            //xmlCreation.outPutConsole();
+            xmlCreation.outPutXML();
+            xmlCreation.outPutHTML();
+
+            /*String xml="<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n" +
+                    "<Planes>\n" +
+                    "    <Plane>Plane1</Plane>\n" +
+                    "</Planes>";*/
+           boolean valid= xmlCreation.validateXMLByXSD("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xml", "D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xsd");
+           if(valid)
+               System.out.println("GOOD parsing using XSD!");
+           else
+               System.out.println("ERROR!");
+
+           domParser newDOMParser=new domParser("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xml");
+/*DocumentBuilderFactory f=DocumentBuilderFactory.newInstance();
+f.setValidating(false);
+            DocumentBuilder builder=f.newDocumentBuilder();
+            Document doc=builder.parse(new File("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xml"));
+            NodeList elements=doc.getElementsByTagName("Plane");
+            System.out.println(elements.item(0).getTextContent());*/
+            saxParsers saxPars=new saxParsers();
+            saxPars.CreateXMLReader();
+            saxPars.SetHandlers();
+            saxPars.Parse("D:\\Универ\\Учеб\\2 курс\\2 сем\\cтпи\\Lab05_internet\\files\\Planes.xml");
+
+
+            Plane pl=new Plane();
+            Plane.Serializable(pl);
+            Plane.Deserializable();
+            Plane.SerializableArr(planes);
+            Plane.DeserializableArr();
+
+
+
+
+
+
+           LOG.debug("Программа завершилась!");
 
         }
         catch (Exception ex)
         {
+
             LOG.fatal("Ошибка!");
-            System.out.println("Ошибка!");
+            System.out.println("Ошибка! "+ex.getMessage());
         }
 
 

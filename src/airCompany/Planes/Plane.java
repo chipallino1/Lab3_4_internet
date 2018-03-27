@@ -3,6 +3,8 @@ package airCompany.Planes;
 import airCompany.AirCompany;
 import org.apache.log4j.Logger;
 
+import java.io.*;
+
 interface IPlane
 {
     String getName();
@@ -14,7 +16,7 @@ interface IPlane
 
 }
 
-public class Plane extends AirCompany implements IPlane {
+public class Plane extends AirCompany implements IPlane,Serializable {
 
     private static final Logger LOG    =    Logger.getLogger(AirCompany.class);
 
@@ -74,4 +76,30 @@ public class Plane extends AirCompany implements IPlane {
                 "name='" + name + '\'' +
                 '}';
     }
+
+
+    public static void Serializable(Plane plane) throws IOException {
+        ObjectOutputStream objectOutputStream=new ObjectOutputStream(new FileOutputStream("planes.xml"));
+        objectOutputStream.writeObject(plane);
+
+    }
+    public static  void SerializableArr(Plane[] planes) throws IOException {
+        ObjectOutputStream objectOutputStream=new ObjectOutputStream(new FileOutputStream("planesArr.json"));
+        objectOutputStream.writeObject(planes);
+
+    }
+    public static  void Deserializable() throws IOException, ClassNotFoundException {
+        ObjectInputStream objectInputStream=new ObjectInputStream(new FileInputStream("planes.xml"));
+        Plane plane=(Plane)objectInputStream.readObject();
+        System.out.println("Name: "+plane.getName()+" CountOfPlaces: "+plane.getCountOfPlaces()+" CountOfLong: "+plane.getLongOfVoyage());
+
+    }
+    public static  void DeserializableArr() throws IOException, ClassNotFoundException {
+        ObjectInputStream objectInputStream=new ObjectInputStream(new FileInputStream("planesArr.json"));
+        Plane[] plane=(Plane[])objectInputStream.readObject();
+        for(int i=0;i<plane.length;i++)
+        System.out.println("Name: "+plane[i].getName()+" CountOfPlaces: "+plane[i].getCountOfPlaces()+" CountOfLong: "+plane[i].getLongOfVoyage());
+
+    }
 }
+
