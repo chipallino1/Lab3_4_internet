@@ -48,7 +48,7 @@ public class Main {
 
 
             boing.getDiscription();
-            pilotBoing.letFly();
+            pilotBoing.letFly();//леха лох
             AirCompany.ILFactory ilFactory = new AirCompany().new ILFactory();
             IL il = ilFactory.create();
             PilotIL pilotIL = ilFactory.addPilot();
