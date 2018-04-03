@@ -2,6 +2,7 @@ package airCompany.Planes;
 
 import airCompany.AirCompany;
 import org.apache.log4j.Logger;
+import org.testng.annotations.Test;
 
 import java.io.*;
 
@@ -62,6 +63,15 @@ public class Plane extends AirCompany implements IPlane,Serializable {
 
     }
 
+    public Plane(String name)
+    {
+        Plane.countOfObjects++;
+        LOG.info("Объект "+this.getClass()+ " создан!");
+        this.name=name;
+
+        this.nameOfOwner=this.nameOfOwnerStandart+(Plane.countOfObjects-1);
+
+    }
     public Plane() {
         Plane.countOfObjects++;
         LOG.info("Объект "+this.getClass()+ " создан!");
@@ -71,6 +81,7 @@ public class Plane extends AirCompany implements IPlane,Serializable {
     }
 
     @Override
+
     public String toString() {
         return "Plane{" +
                 "name='" + name + '\'' +

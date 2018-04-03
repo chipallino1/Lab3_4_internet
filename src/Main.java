@@ -29,6 +29,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 
+import airCompany.Planes.PlaneTest;
+
 public class Main {
 
     static
@@ -76,7 +78,7 @@ public class Main {
             xmlCreator xmlCreation=new xmlCreator(planes);
             //xmlCreation.outPutConsole();
             xmlCreation.outPutXML();
-            xmlCreation.outPutHTML();
+           // xmlCreation.outPutHTML();
 
             /*String xml="<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n" +
                     "<Planes>\n" +

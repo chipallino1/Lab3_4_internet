@@ -34,7 +34,7 @@ public class Dispatcher implements IDispatcher{
 
     public void sortByLong(Plane[] planes)
     {
-        Plane plane=new Plane();
+        Plane plane;
 
         for(int j=0;j<planes.length;j++) {
 
